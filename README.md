@@ -1,4 +1,7 @@
-# Get Started
+# googlesearch.py
+Library for scraping google search results
+
+## Get Started
 
 ```py
 from gsearchlib import Search
@@ -13,3 +16,6 @@ print(result)
     'url': 'https://en.wikipedia.org/wiki/Programming_language'
 }
 ```
+
+## License
+- [The Unlicense](https://unlicense.org/)
