@@ -9,8 +9,7 @@ print(result)
 # Output
 
 {
-    'name': 'Programming language - Wikipedia',
-    'url': 'https://en.wikipedia.org/wiki/Programming_language',
-    'host': 'en.wikipedia.org'
+    'title': 'Programming language - Wikipedia',
+    'url': 'https://en.wikipedia.org/wiki/Programming_language'
 }
 ```
